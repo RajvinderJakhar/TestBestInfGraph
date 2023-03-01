@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBestInfGraph", "TestBestInfGraph\TestBestInfGraph.csproj", "{4BAD7F0B-B834-4D80-85B3-878E97CAD9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAD7F0B-B834-4D80-85B3-878E97CAD9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAD7F0B-B834-4D80-85B3-878E97CAD9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAD7F0B-B834-4D80-85B3-878E97CAD9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAD7F0B-B834-4D80-85B3-878E97CAD9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42D1799-82D4-46C0-9DDC-A4BD3C4873B8}
+	EndGlobalSection
+EndGlobal
